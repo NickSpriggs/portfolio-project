@@ -1,3 +1,5 @@
+/* images */
+
 .main-info-bg {
     height: 300px;
 	width: 100%;
@@ -13,6 +15,12 @@
     width: 300px;  
 	border-radius: 50%;
 }
+
+#portfolio-image {
+
+}
+
+/* text */
 
 .bio {
 	width: 250px;
@@ -42,6 +50,29 @@
     font-size: 180%;
 }
 
+/* Social Media Links */
+
+#social-media {
+    padding-top: 12px;
+	width: 500px;
+	height: 60px;
+    position: absolute;
+}
+
+.social-media-button {
+    height: 60px;
+	width: 125px;
+    float: left;
+}
+
+#social-media i {
+    font-size: 160%;
+	margin: 1%;
+	padding-left: 40%;
+	padding-top: 12%;
+	color: white;
+}
+
 /* Contact form */
 
 .contact-heading {
@@ -57,7 +88,21 @@
 
 button[type="submit"] {
     margin-top: 15px;
-    margin-bottom: 20px;
     background-color: #e84610;
     float: right;
+}
+
+/* Portfolio image */
+
+.portfolio-title {
+    color: white;
+    padding-top: 10px;
+}
+
+.portfolio-image-link {
+    background-color: white;
+    height: 250px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: blue;
 }

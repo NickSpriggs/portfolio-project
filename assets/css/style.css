@@ -5,11 +5,13 @@
     background-size: cover;
 }
 
-.portrait {
+#portrait{
+    margin-top: 35px;
 	background-image: url("../images/portrait.png");
     background-size: cover;
-    height: 250px;
-    width: 250px;  
+    height: 300px;
+    width: 300px;  
+	border-radius: 50%;
 }
 
 .bio {

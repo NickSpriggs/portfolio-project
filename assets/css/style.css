@@ -7,17 +7,13 @@
     background-size: cover;
 }
 
-#portrait{
+#portrait {
     margin-top: 35px;
 	background-image: url("../images/portrait.png");
     background-size: cover;
     height: 300px;
     width: 300px;  
 	border-radius: 50%;
-}
-
-#portfolio-image {
-
 }
 
 /* text */
@@ -100,9 +96,48 @@ button[type="submit"] {
 }
 
 .portfolio-image-link {
-    background-color: white;
-    height: 250px;
     border-width: 3px;
     border-style: solid;
-    border-color: blue;
+    border-color: #193947;
+}
+
+.portfolio-image-link:hover {
+    border-color: gold;
+    border-width: 6px;
+}
+
+.red {
+	background-image: url("../images/site-red.jpg");
+    background-size: cover;
+    height: 250px;  
+}
+
+.blue {
+	background-image: url("../images/site-blue.jpg");
+    background-size: cover;
+    height: 250px;  
+}
+
+.green {
+	background-image: url("../images/site-green.jpg");
+    background-size: cover;
+    height: 250px;  
+}
+
+.yellow {
+	background-image: url("../images/site-yellow.jpg");
+    background-size: cover;
+    height: 250px;  
+}
+
+.purple {
+	background-image: url("../images/site-purple.jpg");
+    background-size: cover;
+    height: 250px;  
+}
+
+.black {
+	background-image: url("../images/site-black.jpg");
+    background-size: cover;
+    height: 250px;  
 }

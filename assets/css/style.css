@@ -27,8 +27,7 @@
 }
 
 .about-me {
-	width: 700px;
-	height: 250px;
+
     margin: 0 auto;
     color: white;
 }
@@ -140,4 +139,15 @@ button[type="submit"] {
 	background-image: url("../images/site-black.jpg");
     background-size: cover;
     height: 250px;  
+}
+
+/* Experience */
+
+.experience-info {
+    color: white;
+}
+
+.education-title {
+    padding-top: 10px;
+    padding-bottom: 5px;
 }

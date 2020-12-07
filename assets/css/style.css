@@ -27,7 +27,6 @@
 }
 
 .about-me {
-
     margin: 0 auto;
     color: white;
 }
@@ -147,7 +146,30 @@ button[type="submit"] {
     color: white;
 }
 
-.education-title {
-    padding-top: 10px;
-    padding-bottom: 5px;
+.experience-title {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-decoration: underline;
 }
+
+.education-info {
+    color: white;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.education-info h2 {
+    font-size: 140%;
+    font-weight: bold;
+}
+
+.education-info p {
+    font-size: 90%;
+}
+
+hr.solid-line {
+  border-top: 1px solid #bbb;
+  color: white;
+  width: 100%;
+}
+

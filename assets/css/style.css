@@ -173,3 +173,44 @@ hr.solid-line {
   width: 100%;
 }
 
+.skills-info {
+    max-width: 90%;
+    margin: 0 auto;
+    
+}
+
+.skills-HTML {
+    background-color: red;
+    font-size: 75px;
+    height: 120px;
+    color: white;
+    font-style: helvetica;
+    text-align: center;
+}
+
+.skills-CSS {
+    background-color: blue;
+    font-size: 75px;
+    height: 120px;
+    color: white;
+    font-style: helvetica;
+    text-align: center;
+}
+
+.skills-Java {
+    background-color: yellow;
+    font-size: 75px;
+    height: 120px;
+    color: white;
+    font-style: helvetica;
+    text-align: center;
+}
+
+.skills-SQL {
+    background-color: purple;
+    font-size: 75px;
+    height: 120px;
+    color: white;
+    font-style: helvetica;
+    text-align: center;
+}

@@ -12,10 +12,10 @@ Ideally this site will allow users to get a better understanding of me on a prof
 
 ## Wireframes:
 
-<img src="assets/images/homepage-wireframe.png">
-<img src="assets/images/experience-wireframe.png">
-<img src="assets/images/portfolio-wireframe.png">
-<img src="assets/images/contact-wireframe.png">
+<img src="assets/images/wireframes/homepage-wireframe.png">
+<img src="assets/images/wireframes/experience-wireframe.png">
+<img src="assets/images/wireframes/portfolio-wireframe.png">
+<img src="assets/images/wireframes/contact-wireframe.png">
 
 
 # Features

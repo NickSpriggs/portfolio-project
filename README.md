@@ -2,7 +2,7 @@
 
 The following project is an online portfolio to demonstrate my web development skills to potential clients. At the moment, I'm still relatively inexperienced so a lot of the site is just an overview of the code languages I'm familiar with. 
 
-[View live project](https://codeinstitute.net)
+[View live project](https://nickspriggs.github.io/portfolio-project/)
 
 # UX
 
@@ -68,16 +68,37 @@ Ideally this site will allow users to get a better understanding of me on a prof
 
 
 
-## Testing
+# Testing
 This project utilized the W3C Markup Validator and W3C CSS Validator for testing the competency of the code on each page.
 
 - [WSC Markup](https://validator.w3.org/)
 - [W3C CSS](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
+## Testing User Stories
+-   #### First Time Visitor Goals
 
-## Deployment
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.        
+    3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
-## Credits
+-   #### Returning Visitor Goals
+
+    1. As a Returning Visitor, I want to find information about coding challenges.
+    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.        
+    3. As a Returning Visitor, I want to find community links.
+
+-   #### Frequent User Goals
+    1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
+    2. As a Frequent User, I want to check to see if there are any new blog posts.
+    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+
+## Further Testing
+
+- Project was tested in Chrome, Firefox, and Safari browsers.
+
+# Deployment
+
+# Credits
 
 - Content
     - Text was written by the developer.

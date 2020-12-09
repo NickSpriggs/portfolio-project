@@ -64,15 +64,15 @@ Ideally this site will allow users to get a better understanding of me on a prof
 
 - [Photoshop](https://photoshop.com/en): This was neccesary in order to create certain images and visual elements.
 
-- [Git/GitHub](https://github.com/): GitHub was the program used to design and ultimately launch the code for this project.
+- [GitHub](https://github.com/): GitHub was the program used to design and ultimately launch the code for this project.
 
 
 
 ## Testing
 This project utilized the W3C Markup Validator and W3C CSS Validator for testing the competency of the code on each page.
 
-- WSC Markup - [Result]()
-- W3C CSS - [Results]()
+- [WSC Markup](https://validator.w3.org/)
+- [W3C CSS](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
 
 ## Deployment

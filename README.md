@@ -48,7 +48,7 @@ Ideally this site will allow users to get a better understanding of me on a prof
 
 - Certain elements that respond to user interactions.
 
-# Technology understand
+# Technology Used
 
 ## Languages
 
@@ -97,6 +97,19 @@ This project utilized the W3C Markup Validator and W3C CSS Validator for testing
 - Project was tested in Chrome, Firefox, and Safari browsers.
 
 # Deployment
+
+I deployed the project on GitHub using the application GitHub Pages. The steps to do so were as follows:
+1.  Log into your GitHub account. 
+2.  Go to the repository containing the project.
+3.  On the menu bar click the last item entitled "Settings" which will redirect you to the advanced settings page.
+4.  Near the bottom of the page you'll find a section aptly titled "GitHub Pages"
+5.  Under source change the dropdown menu from "None" to "Main". Then click "Save"
+6.  The page will refresh autamatically and if you scroll back down you should see a link to the active site.
+
+In order to make a clone follow the previous section up to step #2:
+1.  Above the menu bar containing the "Settings" tab notice the three buttons to the right: "Unwatch", "Star", and "Fork".
+2.  Click the "Fork" button and refresh your browser. You will now have a copy of the repository in your own account.
+3.  If you have trouble locating the repository just return to the landing page of github and use the search bar.
 
 # Credits
 

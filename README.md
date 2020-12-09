@@ -56,17 +56,24 @@ Ideally this site will allow users to get a better understanding of me on a prof
 - CSS
 
 ## Frameworks, Libraries, Websites & Programs Used
-- Bootstrap
+- [Bootstrap](https://www.bootstrap.com/): This library provided examples of responsive code that were vital to the functionality of my project, such as the collapsable navigation bar and contact form.
 
-- Font Awesome
+- [Font Awesome](https://www.fontawesome.com/): This was very useful for styling the fonts of different text elements.
 
-- Git/GitHub
+- [W3schools](https://www.w3schools.com/): The code on the site served as the template for several styling elements I had difficulty with.
 
-- W3schools
+- [Photoshop](https://photoshop.com/en): This was neccesary in order to create certain images and visual elements.
 
-- Photoshop
+- [Git/GitHub](https://github.com/): GitHub was the program used to design and ultimately launch the code for this project.
+
+
 
 ## Testing
+This project utilized the W3C Markup Validator and W3C CSS Validator for testing the competency of the code on each page.
+
+- WSC Markup - [Result]()
+- W3C CSS - [Results]()
+
 
 ## Deployment
 

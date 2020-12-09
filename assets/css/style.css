@@ -55,14 +55,14 @@ html,body{
 
 #social-media {
     padding-top: 12px;
-	width: 500px;
+	width: 340px;
 	height: 60px;
     position: absolute;
 }
 
 .social-media-button {
     height: 60px;
-	width: 125px;
+	width: 85px;
     float: left;
 }
 

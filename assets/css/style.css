@@ -1,9 +1,11 @@
+/* All */
+
 html,body{
   overflow-x: hidden;
   overflow-y: auto;
 }
 
-/* images */
+/* Index.html - Images */
 
 .main-info-bg {
     height: 300px;
@@ -11,6 +13,8 @@ html,body{
 	background-image: url("../images/sky.jpg");
     background-size: cover;
 }
+
+/* The following was copied and altered from  W3schools in order to create a circular image */
 
 #portrait {
     margin-top: 35px;
@@ -21,7 +25,7 @@ html,body{
 	border-radius: 50%;
 }
 
-/* text */
+/* Index.html - Texts */
 
 .bio {
 	width: 250px;
@@ -72,7 +76,11 @@ html,body{
 	color: white;
 }
 
-/* Contact form */
+/* Contact.html */
+
+/* The center-form and button classes were copied and altered from Bootstrap. 
+The center form has been styled to only cover 60% of the container. 
+The button class has been styled to specific color */
 
 .contact-heading {
     padding-top: 30px ;
@@ -91,7 +99,7 @@ button[type="submit"] {
     float: right;
 }
 
-/* Portfolio image */
+/* Portfolio.html */
 
 .portfolio-title {
     color: white;
@@ -145,7 +153,7 @@ button[type="submit"] {
     height: 250px;  
 }
 
-/* Experience */
+/* Experience.html */
 
 .experience-info {
     color: white;

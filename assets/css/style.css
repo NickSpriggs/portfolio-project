@@ -105,9 +105,10 @@ button[type="submit"] {
 }
 
 .portfolio-image-link {
-    border-width: 3px;
+    border-width: 2px;
     border-style: solid;
     border-color: #193947;
+    height: 250px;
 }
 
 .portfolio-image-link:hover {
@@ -117,38 +118,32 @@ button[type="submit"] {
 
 .red {
 	background-image: url("../images/site-red.jpg");
-    background-size: cover;
-    height: 250px;  
+    background-size:100% 100%;
 }
 
 .blue {
 	background-image: url("../images/site-blue.jpg");
-    background-size: cover;
-    height: 250px;  
+    background-size:100% 100%;
 }
 
 .green {
 	background-image: url("../images/site-green.jpg");
-    background-size: cover;
-    height: 250px;  
+    background-size:100% 100%;
 }
 
 .yellow {
 	background-image: url("../images/site-yellow.jpg");
-    background-size: cover;
-    height: 250px;  
+    background-size:100% 100%;
 }
 
 .purple {
 	background-image: url("../images/site-purple.jpg");
-    background-size: cover;
-    height: 250px;  
+     background-size:100% 100%;
 }
 
 .black {
 	background-image: url("../images/site-black.jpg");
-    background-size: cover;
-    height: 250px;  
+    background-size:100% 100%;
 }
 
 /* Experience.html */

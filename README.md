@@ -13,7 +13,7 @@ Ideally this site will allow users to get a better understanding of me on a prof
 - A contact page for potential clients to reach out to me for work.  
 
 
-## User stories
+## User Stories
 
 -   #### First Time Visitor Goals
 
@@ -63,8 +63,21 @@ Ideally this site will allow users to get a better understanding of me on a prof
 # Testing
 This project utilized the W3C Markup Validator and W3C CSS Validator for testing the competency of the code on each page.
 
-- [WSC Markup](https://validator.w3.org/)
-- [W3C CSS](https://jigsaw.w3.org/css-validator/#validate_by_input)
+- WSC Markup - [Link to site](https://validator.w3.org/)
+    - Index.html - <a href="assets/PDFs/Index - Success.pdf"> Results PDF </a>
+    - Exeprience.html - <a href="assets/PDFs/Experience - Success.pdf"> Results PDF</a>
+    - Portfolio.html - <a href="assets/PDFs/Portfolio - Success.pdf">Results PDF</a>
+    - Contact.html - <a href="assets/PDFs/Contact - Success.pdf">Results PDF </a>
+- W3C CSS - [Link to site](https://jigsaw.w3.org/css-validator/#validate_by_input)
+    - Style.css - <a href="assets/PDFs/CSS - Success.pdf">Results PDF </a>
+
+## Testing User Stories
+
+-   #### First Time Visitor Goals
+    1. As a First Time Visitor, I'd like to get a comprehensive overview of who site the belongs to.
+        - The home page immediate introduces the reader to the site owner and provides clear direction to the other pages.
+    2. As a First Time Visitor, I want to easily find different information about the users work history and experience.    
+        -  All the links and external elements function clearly and are unambiguious in their purpose.
 
 ## Further Testing
 
